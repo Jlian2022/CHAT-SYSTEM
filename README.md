@@ -1,5 +1,5 @@
 
-Students are required to create a chat application in C following the client/server architecture and the concepts of socket programming. The chart application should support multiple users who can join the chat room. If a user sends a message, everyone in the chatroom should receive the message.
+Students are required to create a chat application in C following the client/server architecture and the concepts of socket programming. The chat application should support multiple users who can join the chat room. If a user sends a message, everyone in the chatroom should receive the message.
 
  
 
